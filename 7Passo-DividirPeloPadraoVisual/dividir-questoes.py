@@ -115,7 +115,7 @@ def dividir_imagem_por_faixas(caminho_imagem, pasta_saida, cor_alvo):
 
 if __name__ == "__main__":
     caminho_imagem = "colunas_concatenadas_verticalmente.png"  # Atualize com o nome do seu arquivo
-    pasta_saida = "questoes_divididas"                        # Atualize com o nome da pasta desejada
+    pasta_saida = "colunas"                        # Atualize com o nome da pasta desejada
 
     # Cor RGB direta (35, 31, 32)
     cor_do_padrao = (35, 31, 32)
